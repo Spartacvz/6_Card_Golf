@@ -1,8 +1,5 @@
 package com.Greg;
 
-/**
- * Created by admin on 4/26/17.
- */
 public class Card {
 
     int value;   //points scored in game
