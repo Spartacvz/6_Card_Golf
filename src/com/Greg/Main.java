@@ -30,7 +30,6 @@ public class Main {
         GameOver();
     }
 
-
     protected static void GameOver() {
         // Check if everything is face up?
         if (userHand.areAllCardsFaceUp() && computerHand.areAllCardsFaceUp()) {
